@@ -48,3 +48,12 @@ fieldset[disabled] .btn-sample.active {
   color: #611BBD; 
   background-color: #ffffff; 
 }
+
+.top-buffer {
+    margin-top:20px;
+}
+
+body {
+    background-color: purple;
+}
+
